@@ -23,7 +23,7 @@ In the data dictionary, provide clear and concise definitions for each column in
 
 ## CHANGELOG
 
-Here we track what changes between different versions of the dataset. Different versions of the data set will be tagged on github with a release tag showing the version (eg. v1.2.0) that should be cited when using these data to be clear which version of the data you used for an analysis.
+Here we track what changes between different versions of the dataset. Different versions of the data set will be tagged on github with a release tag showing the version (eg. [2025.05.27]) that should be cited when using these data to be clear which version of the data you used for an analysis.
 
 
 
@@ -36,7 +36,7 @@ For questions or recommended revisions, please contact Salmon Data Unit at DFO.S
 
 
 ## previous_version
-This folder stores previous versions of the SMU/CU/DU crosswalk data, which are used to track changes between the current and earlier versions.
+This folder stores previous version of the SMU/CU/DU crosswalk data, which are used to track changes between the current and earlier version.
 
 ## NuSEDS_query.sql
 
